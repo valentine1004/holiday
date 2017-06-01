@@ -1,0 +1,115 @@
+@media(min-width: 768px) and (max-width:960px){
+	@mixin wrapper{
+		height: 100%;
+		margin:0 auto;
+		position: relative;
+		width: 768px;
+	}
+	header{
+		.header-wrapper{		
+			@include wrapper;
+			.head_text{
+				margin-left: 50px;
+			}
+		}
+	}
+	.content_how_it_works{
+		height: 570px;
+		position: relative;
+		.how_it_works_wrapper{
+			@include wrapper;
+			h3{
+				text-align: center;
+				padding:100px 0 40px 0; 
+			}
+			.wrapper{
+				width: 768px;
+				margin:0 auto;
+				height: 500px;
+				.myjcarousel{
+					position: relative;
+					float: left;
+					.jcarousel {
+						position: relative;
+						overflow: hidden;
+						width: 242px;
+					}
+					.jcarousel li {
+						width: 242px;
+					}
+
+					.jcarousel img {
+						width: 242px;
+					}
+
+					.jcarousel-control-prev{
+						left: 15px;
+					}
+
+					.jcarousel-control-next {
+						left: 195px;
+					}
+				}
+			}
+		}
+	}
+	.content_partners{
+		height:730px;
+		position: relative;
+		.content_partners_wrapper{
+			@include wrapper;
+			.partners{
+				height: 500px;
+				position: relative;
+				.bradley{
+					float: left;
+					position: relative;
+					width:48%;
+					img{
+						margin-left: 120px;
+					}
+				}
+				.heather{
+					@extend .bradley;
+				}
+				.lucas{
+					width:48%;
+					margin-top: 50px;
+					img{
+						margin-left: 120px;
+					}
+				}
+				.hunter{
+					@extend .lucas;
+				}
+			}
+			.other_partners{
+				margin-top: 40px;
+			}
+		}
+	}
+	.activities{
+		position: relative;
+		.activities_wrapper{
+			@include wrapper;
+            .active_pictures{
+            	margin-left: 12px;
+             img{
+            	width: 236px;
+            }
+            .cul img{
+            	width: 490px;
+            }
+            .rel img{
+            	width: 490px;
+            }
+		}
+	}
+	}
+	footer{
+		position: relative;
+		.footer_wrapper{
+			@include wrapper;
+		}
+	}
+}

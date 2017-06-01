@@ -1,0 +1,84 @@
+@media (min-width: 768px) and (max-width: 960px) {
+  header .header-wrapper {
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    width: 768px; }
+    header .header-wrapper .head_text {
+      margin-left: 50px; }
+  .content_how_it_works {
+    height: 570px;
+    position: relative; }
+    .content_how_it_works .how_it_works_wrapper {
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+      width: 768px; }
+      .content_how_it_works .how_it_works_wrapper h3 {
+        text-align: center;
+        padding: 100px 0 40px 0; }
+      .content_how_it_works .how_it_works_wrapper .wrapper {
+        width: 768px;
+        margin: 0 auto;
+        height: 500px; }
+        .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel {
+          position: relative;
+          float: left; }
+          .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel {
+            position: relative;
+            overflow: hidden;
+            width: 242px; }
+          .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel li {
+            width: 242px; }
+          .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel img {
+            width: 242px; }
+          .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel-control-prev {
+            left: 15px; }
+          .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel-control-next {
+            left: 195px; }
+  .content_partners {
+    height: 730px;
+    position: relative; }
+    .content_partners .content_partners_wrapper {
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+      width: 768px; }
+      .content_partners .content_partners_wrapper .partners {
+        height: 500px;
+        position: relative; }
+        .content_partners .content_partners_wrapper .partners .bradley, .content_partners .content_partners_wrapper .partners .heather {
+          float: left;
+          position: relative;
+          width: 48%; }
+          .content_partners .content_partners_wrapper .partners .bradley img, .content_partners .content_partners_wrapper .partners .heather img {
+            margin-left: 120px; }
+        .content_partners .content_partners_wrapper .partners .lucas, .content_partners .content_partners_wrapper .partners .hunter {
+          width: 48%;
+          margin-top: 50px; }
+          .content_partners .content_partners_wrapper .partners .lucas img, .content_partners .content_partners_wrapper .partners .hunter img {
+            margin-left: 120px; }
+      .content_partners .content_partners_wrapper .other_partners {
+        margin-top: 40px; }
+  .activities {
+    position: relative; }
+    .activities .activities_wrapper {
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+      width: 768px; }
+      .activities .activities_wrapper .active_pictures {
+        margin-left: 12px; }
+        .activities .activities_wrapper .active_pictures img {
+          width: 236px; }
+        .activities .activities_wrapper .active_pictures .cul img {
+          width: 490px; }
+        .activities .activities_wrapper .active_pictures .rel img {
+          width: 490px; }
+  footer {
+    position: relative; }
+    footer .footer_wrapper {
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+      width: 768px; } }

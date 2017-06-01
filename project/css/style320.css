@@ -1,0 +1,173 @@
+@media (min-width: 320px) and (max-width: 780px) {
+  header .header-wrapper {
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    width: 320px; }
+    header .header-wrapper .head-wrapper .head_text {
+      padding: 120px 0 0 65px; }
+    header .header-wrapper .head-wrapper .head_menu {
+      position: absolute;
+      margin-left: 65px; }
+    header .header-wrapper .center_text_head {
+      margin-top: 120px; }
+      header .header-wrapper .center_text_head h1 {
+        font-size: 30px; }
+  .content_how_it_works {
+    height: 900px;
+    position: relative; }
+    .content_how_it_works .how_it_works_wrapper {
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+      width: 320px; }
+      .content_how_it_works .how_it_works_wrapper h3 {
+        text-align: center;
+        font-size: 23px;
+        color: #333333;
+        padding: 30px 0 30px 0; }
+      .content_how_it_works .how_it_works_wrapper .wrapper {
+        width: 320px;
+        margin: 0 auto;
+        height: 800px; }
+        .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel {
+          position: relative; }
+          .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel {
+            width: 320px; }
+            .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel ul .jcarousel__item1 {
+              margin: 0 0 20px 10px;
+              position: relative; }
+            .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel ul .jcarousel__item1:before {
+              position: absolute;
+              content: url("../img/step1.png");
+              top: 30px;
+              left: 20px; }
+            .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel ul .jcarousel__item2 {
+              position: relative;
+              margin: 0 0 20px 0px; }
+            .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel ul .jcarousel__item2:before {
+              top: 30px;
+              left: 20px; }
+            .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel ul .jcarousel__item3:before {
+              top: 30px;
+              left: 20px; }
+          .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel li {
+            width: 300px;
+            height: 238px; }
+          .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel .jcarousel img {
+            height: 238px;
+            width: 300px; }
+        .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel--carousel2 {
+          margin-left: 10px; }
+        .content_how_it_works .how_it_works_wrapper .wrapper .myjcarousel--carousel3 {
+          margin-left: 10px; }
+  .content_partners {
+    height: 1030px;
+    position: relative; }
+    .content_partners .content_partners_wrapper {
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+      width: 320px; }
+      .content_partners .content_partners_wrapper h3 {
+        padding: 10px 0 50px 0; }
+      .content_partners .content_partners_wrapper .partners {
+        position: relative; }
+        .content_partners .content_partners_wrapper .partners .bradley, .content_partners .content_partners_wrapper .partners .heather, .content_partners .content_partners_wrapper .partners .lucas, .content_partners .content_partners_wrapper .partners .hunter {
+          width: 100%;
+          position: relative; }
+          .content_partners .content_partners_wrapper .partners .bradley img, .content_partners .content_partners_wrapper .partners .heather img, .content_partners .content_partners_wrapper .partners .lucas img, .content_partners .content_partners_wrapper .partners .hunter img {
+            margin-left: 100px; }
+          .content_partners .content_partners_wrapper .partners .bradley h3, .content_partners .content_partners_wrapper .partners .heather h3, .content_partners .content_partners_wrapper .partners .lucas h3, .content_partners .content_partners_wrapper .partners .hunter h3 {
+            font-size: 13px;
+            text-align: center;
+            padding: 5px 0 15px 0; }
+          .content_partners .content_partners_wrapper .partners .bradley p, .content_partners .content_partners_wrapper .partners .heather p, .content_partners .content_partners_wrapper .partners .lucas p, .content_partners .content_partners_wrapper .partners .hunter p {
+            font-family: 'Roboto-Light';
+            text-align: center;
+            font-size: 14px;
+            color: #969696; }
+        .content_partners .content_partners_wrapper .partners .heather {
+          width: 100%;
+          margin-top: 30px; }
+        .content_partners .content_partners_wrapper .partners .lucas {
+          width: 100%; }
+        .content_partners .content_partners_wrapper .partners .hunter {
+          width: 100%;
+          height: 240px; }
+      .content_partners .content_partners_wrapper .other_partners {
+        position: relative;
+        display: block;
+        width: 100%;
+        padding-top: 60px; }
+        .content_partners .content_partners_wrapper .other_partners a {
+          padding: 50px 60px 10px 60px; }
+  .activities {
+    position: relative; }
+    .activities .activities_wrapper {
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+      width: 320px;
+      height: 1490px; }
+      .activities .activities_wrapper .active_pictures {
+        margin-left: 10px; }
+        .activities .activities_wrapper .active_pictures .spo img {
+          width: 298px;
+          height: 120px; }
+        .activities .activities_wrapper .active_pictures .wel img {
+          width: 298px;
+          height: 120px; }
+        .activities .activities_wrapper .active_pictures .ext img {
+          width: 298px;
+          height: 120px; }
+        .activities .activities_wrapper .active_pictures .gam img {
+          width: 298px;
+          height: 120px; }
+        .activities .activities_wrapper .active_pictures .cul img {
+          width: 298px;
+          height: 120px; }
+        .activities .activities_wrapper .active_pictures .rel img {
+          width: 298px;
+          height: 120px; }
+        .activities .activities_wrapper .active_pictures .grid-item7 {
+          margin: 20px 0 0 0px; }
+        .activities .activities_wrapper .active_pictures .tra img {
+          width: 298px;
+          height: 120px; }
+      .activities .activities_wrapper .enter_your_interests {
+        margin-left: 10px; }
+      .activities .activities_wrapper .enter_search {
+        flex-direction: column; }
+        .activities .activities_wrapper .enter_search .enter_your_interests {
+          margin: 0 0 10px 33px; }
+        .activities .activities_wrapper .enter_search .button_search {
+          margin: 20px 0 0 13px; }
+          .activities .activities_wrapper .enter_search .button_search a {
+            padding: 10px 83px 10px 83px; }
+  footer {
+    position: relative; }
+    footer .footer_wrapper {
+      height: 100%;
+      margin: 0 auto;
+      position: relative;
+      width: 320px;
+      height: 240px; }
+      footer .footer_wrapper .urlab {
+        text-align: center;
+        width: 100%; }
+      footer .footer_wrapper .footer_about {
+        margin: 10px 0 0 130px; }
+        footer .footer_wrapper .footer_about .footer_box {
+          display: flex;
+          flex-direction: row; }
+          footer .footer_wrapper .footer_about .footer_box p {
+            margin: 10px 0 0 20px; }
+          footer .footer_wrapper .footer_about .footer_box .foot_about {
+            margin: 10px 0 0 -80px; }
+      footer .footer_wrapper .partner_footer {
+        margin: 20px 0 0 130px;
+        width: 100%; }
+      footer .footer_wrapper .areto {
+        float: left;
+        margin: 20px 0 0 100px; } }
